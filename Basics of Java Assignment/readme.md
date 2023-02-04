@@ -1,4 +1,19 @@
-# Basics Assignment
+# Basics Of Java Assignment 1
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
 
 
 
